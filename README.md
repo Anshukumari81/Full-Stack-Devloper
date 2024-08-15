@@ -1,1 +1,1 @@
-# Full-Stack-Devloper mini project Task Tracker
+# Fronted minor project Task Tracker
